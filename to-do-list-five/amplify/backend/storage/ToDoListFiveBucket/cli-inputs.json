@@ -1,0 +1,14 @@
+{
+  "resourceName": "ToDoListFiveBucket",
+  "policyUUID": "627f52bf",
+  "bucketName": "todolistfive",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerb6719cf9",
+  "groupAccess": {}
+}

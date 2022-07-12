@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todolistfive",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/ellen/to-do-list-five/to-do-list-five/amplify/backend/api/todolistfive/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
